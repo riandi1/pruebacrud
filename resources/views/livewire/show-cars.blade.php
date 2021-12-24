@@ -125,7 +125,7 @@
         </div>
         <x-jet-dialog-modal wire:model="open">
             <x-slot name="title">
-                Editar el carro {{ $car->name }}
+                Editar el carro 
             </x-slot>
             <x-slot name="content">
                 <div class="mb-4">
